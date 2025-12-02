@@ -1,0 +1,32 @@
+[
+  {
+    "destination": "500|500",
+    "player": "Gracz1",
+    "time": "dzisiaj o 10:30:45",
+    "type": "attack"
+  },
+  {
+    "destination": "501|501",
+    "player": "Gracz1",
+    "time": "dzisiaj o 10:35:12",
+    "type": "attack"
+  },
+  {
+    "destination": "502|502",
+    "player": "Gracz2",
+    "time": "jutro o 08:00:00",
+    "type": "fake"
+  },
+  {
+    "destination": "500|500",
+    "player": "Gracz3",
+    "time": "dzisiaj o 10:30:50",
+    "type": "attack"
+  },
+  {
+    "destination": "503|503",
+    "player": "Gracz2",
+    "time": "jutro o 12:15:30",
+    "type": "attack"
+  }
+]

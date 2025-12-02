@@ -1,0 +1,136 @@
+[spoiler=Telpek]
+Wioski wroga na które są rozkazy poza widełkami:
+455|512
+[/spoiler]
+[spoiler=Telpek - coś poszło nie tak]
+Wioska: 
+455|512
+Rozkazy do wysłania:
+03.12 09:29 - 03.12 10:29
+03.12 09:29 - 03.12 10:29
+03.12 10:30 - 03.12 11:30
+Wysłane ataki:
+jutro o 09:48:36:479
+jutro o 09:33:41:454
+jutro o 09:32:21:653
+
+[/spoiler]
+[spoiler=Millo x Javix27]
+Wioski wroga na które są rozkazy poza widełkami:
+453|504
+[/spoiler]
+[spoiler=Millo x Javix27 - coś poszło nie tak]
+Wioska: 
+453|504
+Rozkazy do wysłania:
+03.12 09:29 - 03.12 10:29
+03.12 09:30 - 03.12 10:30
+03.12 11:00 - 03.12 12:00
+Wysłane ataki:
+jutro o 11:07:09:738
+jutro o 10:47:35:904
+jutro o 09:41:43:679
+
+[/spoiler]
+[spoiler=Sliwek x Ar4s3k]
+Wioski wroga na które są rozkazy poza widełkami:
+454|510
+[/spoiler]
+[spoiler=Sliwek x Ar4s3k - coś poszło nie tak]
+Wioska: 
+454|510
+Rozkazy do wysłania:
+03.12 08:00 - 03.12 09:00
+03.12 08:00 - 03.12 09:00
+Wysłane ataki:
+jutro o 09:15:05:977
+jutro o 08:00:58:886
+
+[/spoiler]
+[spoiler=xKentinPL]
+Wioski wroga na które są rozkazy poza widełkami:
+454|510
+[/spoiler]
+[spoiler=xKentinPL - coś poszło nie tak]
+Wioska: 
+454|510
+Rozkazy do wysłania:
+03.12 09:29 - 03.12 10:29
+Wysłane ataki:
+jutro o 14:29:54:000
+
+[/spoiler]
+[spoiler=DWÓCH NIEUDACZNIKÓW]
+Wioski wroga na które są rozkazy poza widełkami:
+453|504
+[/spoiler]
+[spoiler=DWÓCH NIEUDACZNIKÓW - coś poszło nie tak]
+Wioska: 
+453|504
+Rozkazy do wysłania:
+03.12 10:59 - 03.12 11:59
+Wysłane ataki:
+jutro o 13:42:07:979
+
+[/spoiler]
+[spoiler=SirUrlich]
+Wioski wroga na które są rozkazy poza widełkami:
+454|510
+453|504
+[/spoiler]
+[spoiler=SirUrlich - coś poszło nie tak]
+Wioska: 
+454|510
+Rozkazy do wysłania:
+03.12 09:30 - 03.12 10:30
+Wysłane ataki:
+jutro o 13:06:28:306
+
+Wioska: 
+453|504
+Rozkazy do wysłania:
+03.12 09:29 - 03.12 10:29
+Wysłane ataki:
+jutro o 13:10:08:018
+
+[/spoiler]
+[spoiler=MatiesTG]
+Wioski wroga na które są rozkazy poza widełkami:
+454|513
+[/spoiler]
+[spoiler=MatiesTG - coś poszło nie tak]
+Wioska: 
+454|513
+Rozkazy do wysłania:
+03.12 11:59 - 03.12 12:59
+Wysłane ataki:
+jutro o 14:00:00:773
+
+[/spoiler]
+[spoiler=Pater x Pilgrim x Warzyw]
+Wioski wroga na które są rozkazy poza widełkami:
+455|512
+[/spoiler]
+[spoiler=Pater x Pilgrim x Warzyw - coś poszło nie tak]
+Wioska: 
+455|512
+Rozkazy do wysłania:
+03.12 09:30 - 03.12 10:30
+Wysłane ataki:
+jutro o 11:15:50:784
+
+[/spoiler]
+[spoiler=vukoo1]
+Wioski wroga na które są rozkazy poza widełkami:
+453|504
+[/spoiler]
+[spoiler=vukoo1 - coś poszło nie tak]
+Wioska: 
+453|504
+Rozkazy do wysłania:
+03.12 09:30 - 03.12 10:30
+Wysłane ataki:
+jutro o 10:47:50:632
+
+[/spoiler]
+Zanim napiszesz, że algorytm nie działa poprawnie to sprawdź 4 razy WSZYSTKIE komendy, które miałeś do wysłania na daną wioskę. Fałszywe oskarżenia będą odpowiednio nagradzane
